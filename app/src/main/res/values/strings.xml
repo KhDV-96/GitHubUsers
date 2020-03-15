@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">GitHubUsers</string>
+    <string name="app_name"><b>GitHub</b> Users</string>
+
+    <string name="no_results_label"><big>😔</big>\nNo results</string>
+    <string name="user_avatar_label">User\'s avatar</string>
+    <string name="search_user_label">Search GitHub user</string>
 </resources>

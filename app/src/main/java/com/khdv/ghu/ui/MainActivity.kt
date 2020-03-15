@@ -1,7 +1,8 @@
-package com.khdv.ghu
+package com.khdv.ghu.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.khdv.ghu.R
 
 class MainActivity : AppCompatActivity() {
 
